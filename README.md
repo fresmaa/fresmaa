@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/fresmaa" target="_blank">
+ <a href="https://linkedin.com/in/fresma" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://twitter.com/fresma_a" target="_blank">
