@@ -31,3 +31,11 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fresmaa&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6&background=00000000" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <h3>🚀 My Personal Space</h3>
+  <p><b>MyPlayground</b> — A personal digital laboratory.</p>
+  <a href="https://my-playground.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Website-3B82F6?style=for-the-badge&logo=rocket&logoColor=white" alt="MyPlayground Website"/>
+  </a>
+</div>
