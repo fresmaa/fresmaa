@@ -28,5 +28,6 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=fresmaa&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fresmaa&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6&background=00000000" alt="GitHub Streak" />
 </div>
