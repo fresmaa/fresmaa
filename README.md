@@ -1,59 +1,32 @@
-<!-- Intro  -->
-<p align="center"> 
-  <samp>
-    <br>
-    「 Web Appplication Developer」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://linkedin.com/in/fresma" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://twitter.com/fresma_a" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/fresma_a" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
-</p>
-<br />
-
 <div align="center">
-  <h4>
-    Use To Code
-  </h4>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Web+Application+Developer;Turning+Ideas+into+Code" alt="Typing SVG" />
+  </a>
+  <br><br>
+
+  <a href="https://linkedin.com/in/fresma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/fresma_a" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+  </a>
+  <a href="https://instagram.com/fresma_a" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
+<br><br>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="go logo"  />
-  <img width="12" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <h3>💻 Tech Stack & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,js,c,laravel,vue,angular,flask,nodejs,tailwind,bootstrap,mysql&theme=dark&perline=6" alt="My Skills" />
+  </a>
 </div>
 
-<br/>
+<br><br>
 
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="GitHub Stats" />
+</div>
