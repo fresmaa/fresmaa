@@ -28,10 +28,3 @@
     <img src="https://skillicons.dev/icons?i=go,java,py,php,nodejs,c,laravel,flask,mysql,postgres,docker,git&theme=dark&perline=6" alt="Backend Skills" />
   </a>
 </div>
-
-<br><br>
-
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fresmaa&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6&background=00000000" alt="GitHub Streak" />
-</div>
