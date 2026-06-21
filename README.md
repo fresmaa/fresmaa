@@ -4,8 +4,6 @@
   </a>
   <br>
   
-  <p><b>MyPlayground</b> — A personal digital laboratory.</p>
-
   <a href="https://linkedin.com/in/fresma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,7 +21,6 @@
 <br><br>
 
 <div align="center">
-  <h3>⚙️ Software Engineer</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,java,py,php,nodejs,c,laravel,flask,mysql,postgres,docker,git&theme=dark&perline=6" alt="Backend Skills" />
   </a>
