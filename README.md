@@ -23,7 +23,7 @@
 <br><br>
 
 <div align="center">
-  <h3>⚙️ Backend & Architecture</h3>
+  <h3>⚙️ Software Engineer</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,java,py,php,nodejs,c,laravel,flask,mysql,postgres,docker,git&theme=dark&perline=6" alt="Backend Skills" />
   </a>
